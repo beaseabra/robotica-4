@@ -1,0 +1,7 @@
+Algorithm,Condition,Task success rate (%),Non-collision rate (%),Collision rate (%),Avg steps,Avg lap steps,Avg reward,Avg lane deviation,N episodes
+DQN,C1,0.0,0.0,100.0,610.2,,2900.49,0.0549,100
+DQN,C2,11.0,78.0,22.0,404.7,2000.0,204.76,0.3361,100
+DQN,C3,11.0,11.0,89.0,520.7,2000.0,1438.54,0.1325,100
+PPO,C1,29.0,29.0,71.0,760.2,2000.0,3481.02,0.0682,100
+PPO,C2,64.0,64.0,36.0,1339.2,2000.0,1057.55,0.3356,100
+PPO,C3,0.0,79.0,21.0,400.4,,1392.5,0.1542,100
